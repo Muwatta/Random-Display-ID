@@ -19,7 +19,7 @@ PlayingWithFunction is a dynamic web application that allows users to explore st
 ## 🎥 Demo  
 [Live Preview](https://random-display-of-id.netlify.app/)
 
-![Screenshot](https://res.cloudinary.com/dee5edoss/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1741404797/Screenshot_2025-03-08_043058_rrrzou.png)
+![Screenshot](https://res.cloudinary.com/dee5edoss/image/upload/c_thumb,w_200,g_face/v1741404797/Screenshot_2025-03-08_043058_rrrzou.png)
 
 ## 🚀 Getting Started
 
